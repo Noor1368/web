@@ -1,0 +1,27 @@
+.pic {
+  border-radius: 100%;
+  height: 200px;
+  border-style: inset;
+}
+
+.name {
+  font-family: 'Sacramento', cursive;
+margin-top: 0;
+margin-bottom: 0;
+
+}
+.placeimg{
+  height: 300px;
+  width: 300px;
+  border-style: none;
+
+}
+
+/* .divrow{
+  margin-top: 10px;
+  margin-bottom: 0px;
+} */
+/* .divmar{
+  margin-left: 20%;
+
+} */
